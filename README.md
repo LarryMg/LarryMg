@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @LarryMg
-- 👀 I’m interested in software development, mobile development and web development
-
-<!---
-LarryMg/LarryMg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hello, I’m @LarryMg
+- 👀 I’m interested in IA, optimisation and algorithms
+- Constantly learning, iterating, and improving. I see algorithmic challenges as opportunities to innovate.
+- Currently studying graph algorithms, linear programming, and conducting an in-depth exploration of operating systems.
