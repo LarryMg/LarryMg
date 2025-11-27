@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LarryMg
 - 👀 I’m interested in software development, mobile development and web development
-- 🌱 I’m currently learning automation with python
 
 <!---
 LarryMg/LarryMg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
